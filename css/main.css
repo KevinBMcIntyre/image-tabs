@@ -41,6 +41,9 @@ a {
 	padding: 0 .6em;
 	border-radius: 1em;
 }
+a:hover {
+	background-color: grey;
+}
 img {
 	width: 100%;
 }
