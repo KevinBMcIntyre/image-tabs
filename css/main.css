@@ -15,13 +15,12 @@ html{
 *, *::before, *::after{
 	box-sizing: inherit;
 }
-body{
+body {
 	margin: 0;
 }
 .panel {
 	display: none;
 }
-
 .panel:target {
 	display: block;
 }
@@ -35,7 +34,6 @@ body{
 .tabs > li {
 	display: inline-block;
 }
-
 a {
 	border: 6px solid grey;
 	padding: 0 .6em;
